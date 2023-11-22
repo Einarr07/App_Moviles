@@ -1,0 +1,7 @@
+{
+  "name": "trabajo_firebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
