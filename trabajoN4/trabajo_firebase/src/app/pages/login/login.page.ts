@@ -27,6 +27,7 @@ export class LoginPage implements OnInit {
   credentials!:FormGroup;
 
   constructor(
+    private fb: FormGroup,
     private loadController:LoadingController,
     private alertController: AlertController,
     private router: Router,
